@@ -1,5 +1,8 @@
 {
   "expo": {
+    "experiments": {
+      "turboModules": true
+    },
     "name": "rainbowRn",
     "slug": "rainbowRn",
     "version": "1.0.0",
